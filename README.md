@@ -11,7 +11,7 @@ _Basic html website consisting of 6 pages including pictures and links._
 ## Setup/Installation Requirements
 
 
-_This html app is hosted on github pages [https://dan-nollette.github.io/resort/pictures.html] and needs no further setup, just go to_
+_This html app is hosted on github pages [https://dan-nollette.github.io/resort/index.html] and needs no further setup, just go to_
 
 ## Known Bugs
 
